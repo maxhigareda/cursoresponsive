@@ -1,0 +1,12 @@
+.main-data-container-notes{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+
+}
+
+.plans-slider{
+    justify-content: center;
+
+}

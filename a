@@ -1,0 +1,24 @@
+[33mcommit ef1c307a146dc9f6380be438098f1703acae0be8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 74d78ad eb5679c
+Author: Max Higareda <max.higareda@gmail.com>
+Date:   Wed Feb 24 20:56:14 2021 -0600
+
+    Merge branch 'master' of github.com:maxhigareda/cursoresponsive
+
+[33mcommit eb5679cf5a5e1a113fb4eac31ed21168eaa0e6db[m
+Author: maxhigareda <78944001+maxhigareda@users.noreply.github.com>
+Date:   Wed Feb 24 20:51:02 2021 -0600
+
+    Initial commit
+
+[33mcommit 74d78adb4806458bd958ec96f1e86f4c259db68c[m
+Author: Max Higareda <max.higareda@gmail.com>
+Date:   Wed Feb 24 20:43:14 2021 -0600
+
+    Agrege media query para desktop
+
+[33mcommit 1307fa2dc3980c96762b8318a3973b24e0449339[m
+Author: Max Higareda <max.higareda@gmail.com>
+Date:   Wed Feb 24 19:27:39 2021 -0600
+
+    Termine la parte de mobile
